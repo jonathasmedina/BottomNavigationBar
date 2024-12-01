@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_action_name_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/ferramenta"
+        android:icon="@drawable/ic_action_name"
+        android:title="Ferramentas" />
+    <item
+        android:id="@+id/cronograma"
+        android:icon="@drawable/ic_action_name_home_clock"
+        android:title="Cronograma" />
+</menu>
+
